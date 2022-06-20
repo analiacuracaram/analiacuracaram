@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @analiacuracaram
+- 👋 Hi, I’m @analiacuracaram but everyone call´se me Any
 - 👀 I’m interested in Backend development, Data Engineering, Agile methodologies
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me analiacuracaram@gmail.com / https://www.linkedin.com/in/analiacuracaram/
