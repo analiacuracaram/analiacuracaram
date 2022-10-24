@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @analiacuracaram but everyone call´se me Any
-- 👀 I’m interested in Backend development, Data Engineering, Agile methodologies
-- 🌱 I’m currently learning JavaScript
+- 👋 Hi, I’m @analiacuracaram but everyone call me Any
+- 👀 I’m interested in Fullstack development,  Agile methodologies
+- 🌱 I’m currently learning JavaScript and React
 - 📫 How to reach me analiacuracaram@gmail.com / https://www.linkedin.com/in/analiacuracaram/
 
 <!---
