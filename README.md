@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @analiacuracaram but everyone call me Any
-- 👀 I’m interested in Fullstack development,  Agile methodologies
-- 🌱 I’m currently learning JavaScript and React
+- 👋 Hi, I’m @analiacuracaram but everyone call me Ana
+- 👀 I’m interested in ML, MLOps, Cloud Infrastructure
+- 🌱 I’m currently learning Python, AWS, GCP
 - 📫 How to reach me analiacuracaram@gmail.com / https://www.linkedin.com/in/analiacuracaram/
 
 <!---
